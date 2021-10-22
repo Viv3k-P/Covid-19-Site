@@ -4,7 +4,6 @@ import plotly.express as px
 from PIL import Image
 from getData import run
 
-from main import d
 #from main import prov
 d = run()
 prov = ["BC","AB","SAS","MA","ON","QB","NL","NB","NS","PEI","YK","NW","NUN"]
